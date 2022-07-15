@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ovladanie
+comment0.text=\r\n\ Trieda\ Ovladaine,\ spusta\ tik\ ktory\ zabezpecuje\ pohyb\ hada\ a\ kontrolu\ kolizie\ s\ jablkom\ a\ hraniciami\r\n\ \r\n\ @author\ Filip\ Michalek\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=hadik\ smer\ hra
+comment1.target=Ovladanie(Hadik,\ Smer,\ Hra)
+comment1.text=\r\n\ Parametricky\ konstruktor\ dovoli\ manazerovi\ spravovanie\ tohoto\ objeku\r\n\ \r\n\ @param\ hadik\ je\ hadik\r\n\ @param\ smer\ je\ smer\ v\ ktorom\ sa\ hadik\ pohybuje\r\n\ @param\ hra\ je\ hra\r\n
+comment2.params=
+comment2.target=void\ posunVpravo()
+comment2.text=\r\n\ Metoda\ posunVpravo\ zmeni\ hadov\ smer\ doprava\r\n
+comment3.params=
+comment3.target=void\ posunVlavo()
+comment3.text=\r\n\ Metoda\ posunVlavo\ zmeni\ hadov\ smer\ dolava\r\n
+comment4.params=
+comment4.target=void\ posunHore()
+comment4.text=\r\n\ Metoda\ posunHore\ zmeni\ hadov\ smer\ hore\r\n
+comment5.params=
+comment5.target=void\ posunDole()
+comment5.text=\r\n\ Metoda\ posunDole\ zmeni\ hadov\ smer\ dole\r\n
+comment6.params=
+comment6.target=void\ tik()
+comment6.text=\r\n\ Metoda\ tik\ sa\ vykonava\ opakovane\ a\ zabezpecuje\ pohyb\ a\ kontrolu\ kolizie\ jablka,\ hranic\ a\ podmienku\ na\ vyhru\r\n
+numComments=7

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Den
+comment1.params=rok\ mesiac
+comment1.target=Den(int,\ int)
+comment2.params=
+comment2.target=int\ getDen()
+comment3.params=
+comment3.target=void\ setDen()
+numComments=4

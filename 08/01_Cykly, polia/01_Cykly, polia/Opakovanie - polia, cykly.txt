@@ -1,0 +1,17 @@
+1. Vypíšte všetky prvoèísla menšie ako zadaná hodnota. Predpokladajme, e zadaná hodnota bude aspoò 3.
+   (ošetrite vstupnı parameter)
+
+2. Vygenerujte pole celıch èísel (aspoò 30) tak, aby medzi nimi boli aj záporné èísla.
+   Vytvorte metódy, ktoré zabezpeèia nasledovné:
+   a, Nahraïte prvky po¾a ich cifernımi súètami.
+   b, Vymeòte 2 prvky po¾a, ich indexy sú dané parametrami metódy (ošetri vstup).
+   c, Vráte poèet prvkov s hodnotou 0.
+   d, Zistite poèet prvkov, ktorıch hodnota je delite¾ná è. 3 so zvyškom 1.
+   e, Zistite poèet prvkov, ktoré obsahujú èíslicu 7 (nemusia by delite¾né 7) a vypíšte ich indexy.
+   f, Vypoèítajte súèet prvkov na nepárnych indexoch.
+   g, Vypíšte prvky po¾a, ktorıch hodnota je menšia ako priemer.
+   h, Nájdete minimum (index aj hodnotu) z prvej polovice po¾a.
+   i, Zistite poèet prvoèísel v poli.
+   j, Obráte poradie prvkov v poli (nie vıpis prvkov v opaènom poradí !!!).
+   k, Vypoèítajte súèet hodnôt s nepárnym indexom, ale párnou hodnotou.
+   l, Preusporiadajte prvky po¾a tak, aby boli v neklesajúcom poradí.

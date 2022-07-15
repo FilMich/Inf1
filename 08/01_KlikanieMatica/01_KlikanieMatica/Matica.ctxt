@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=m\ n
+comment0.target=Matica(int,\ int)
+comment1.params=
+comment1.target=void\ zobraz()
+comment2.params=x\ y
+comment2.target=void\ vyberSuradnice(int,\ int)
+numComments=3

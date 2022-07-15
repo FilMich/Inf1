@@ -1,0 +1,66 @@
+BlueJ run started: Fri Nov 06 10:03:15 CET 2020
+BlueJ version 4.1.2
+Java version 1.8.0_211
+Virtual machine: Java HotSpot(TM) 64-Bit Server VM 25.211-b12 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Java\jdk1.8.0_211\jre
+----
+Detected language "slovak" based on iso639-2 code "slk"
+Internal error: Unable to load definitions file: C:\Program Files (x86)\BlueJ FRI Edition\lib\slovak\labels
+Internal error: Unable to load frame labels file: C:\Program Files (x86)\BlueJ FRI Edition\lib\slovak\frame-labels
+Exception in thread "JavaFX Application Thread" java.lang.NullPointerException
+	at java.awt.EventQueue$3$1.run(EventQueue.java:714)
+	at com.sun.javafx.application.PlatformImpl.lambda$null$177(PlatformImpl.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$178(PlatformImpl.java:294)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoopImpl(Native Method)
+	at com.sun.glass.ui.win.WinApplication._enterNestedEventLoop(WinApplication.java:204)
+	at com.sun.glass.ui.Application.enterNestedEventLoop(Application.java:511)
+	at com.sun.glass.ui.EventLoop.enter(EventLoop.java:107)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.enterNestedEventLoop(QuantumToolkit.java:590)
+	at javafx.stage.Stage.showAndWait(Stage.java:474)
+	at javafx.scene.control.HeavyweightDialog.showAndWait(HeavyweightDialog.java:162)
+	at javafx.scene.control.Dialog.showAndWait(Dialog.java:341)
+	at bluej.collect.DataCollector.changeOptInOut(DataCollector.java:178)
+	at bluej.collect.DataCollector.startSession(DataCollector.java:133)
+	at bluej.collect.DataCollector.bluejOpened(DataCollector.java:269)
+	at bluej.Main.lambda$null$0(Main.java:130)
+	at com.sun.javafx.application.PlatformImpl.lambda$null$177(PlatformImpl.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$178(PlatformImpl.java:294)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$152(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Opening project: C:\Users\kvetm\OneDrive\Poèítaè\Inf1_07\01_cyklusFOR - opakovanie\OsobaSkupinaCykly
+1604653398802: Listening for JDWP connection on address: javadebug
+ExtensionWrapper.safeEventOccurred: Class=com.puppycrawl.tools.checkstyle.plugins.bluej.CheckstyleExtension Exception=null
+java.lang.NullPointerException
+	at javax.swing.SwingUtilities.getWindowAncestor(SwingUtilities.java:137)
+	at bluej.pkgmgr.PkgMgrFrame.getWindow(PkgMgrFrame.java:1523)
+	at bluej.extensions.BlueJ.getCurrentFrame(BlueJ.java:272)
+	at com.puppycrawl.tools.checkstyle.plugins.bluej.BlueJManager.getCurrentFrame(BlueJManager.java:233)
+	at com.puppycrawl.tools.checkstyle.plugins.bluej.BlueJManager.initAuditFrame(BlueJManager.java:492)
+	at com.puppycrawl.tools.checkstyle.plugins.bluej.CheckstyleExtension.buildAuditFrame(CheckstyleExtension.java:326)
+	at com.puppycrawl.tools.checkstyle.plugins.bluej.CheckstyleExtension.access$200(CheckstyleExtension.java:57)
+	at com.puppycrawl.tools.checkstyle.plugins.bluej.CheckstyleExtension$CheckstyleApplicationListener.blueJReady(CheckstyleExtension.java:184)
+	at bluej.extensions.BlueJ.delegateApplicationEvent(BlueJ.java:756)
+	at bluej.extensions.BlueJ.delegateEvent(BlueJ.java:919)
+	at bluej.extensions.ExtensionBridge.delegateEvent(ExtensionBridge.java:59)
+	at bluej.extmgr.ExtensionWrapper.safeEventOccurred(ExtensionWrapper.java:422)
+	at bluej.extmgr.ExtensionsManager.delegateEvent(ExtensionsManager.java:378)
+	at bluej.Main.processArgs(Main.java:235)
+	at bluej.Main.lambda$null$0(Main.java:131)
+	at com.sun.javafx.application.PlatformImpl.lambda$null$177(PlatformImpl.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$178(PlatformImpl.java:294)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$152(WinApplication.java:177)
+	at java.lang.Thread.run(Thread.java:748)
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: userhome\bluej\import-cache.xml (The system cannot find the file specified)
+nov 06, 2020 10:03:27 AM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Java/jdk1.8.0_211/jre/lib/ext/jfxrt.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=celeMeno\ osobneCislo
+comment0.target=Student(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Vytvor\ noveho\ studenta\ so\ zadanym\ menom\ (Priezvisko,\ Meno)\ a\ osobnym\ cislom.\r\n\ Nastavi\ jeho\ pocet\ kreditov\ na\ nulu.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getCeleMeno()
+comment1.text=\r\n\ Vrat\ cele\ meno\ (Priezvisko,\ Meno)\r\n
+comment2.params=
+comment2.target=java.lang.String\ getOsobneCislo()
+comment2.text=\r\n\ Vrat\ osobne\ cislo\r\n
+comment3.params=ziskaneKredity
+comment3.target=void\ pridajKredity(int)
+comment3.text=\r\n\ Pridaj\ studentovi\ zadany\ pocet\ kreditov\r\n
+comment4.params=
+comment4.target=int\ getKredity()
+comment4.text=\r\n\ Vrat\ pocet\ ziskanych\ kreditov.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getPrihlasovacieMeno()
+comment5.text=\r\n\ Vypocitaj\ a\ vrat\ prihlasovacie\ meno\ studenta\r\n
+numComments=6

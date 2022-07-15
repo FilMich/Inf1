@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DvaStvorce
+comment1.params=p
+comment1.target=DvaStvorce(int)
+comment2.params=
+comment2.target=void\ vypisDvaStvorce()
+comment3.params=dalsi
+comment3.target=void\ zvacsi(Stvorec)
+comment4.params=
+comment4.target=void\ nakresli()
+numComments=5

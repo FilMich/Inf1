@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bicykel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bicykel\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=farba\ cisloBicykla\ maNakupnyKosik
+comment1.target=Bicykel(Farba,\ int,\ boolean)
+comment2.params=novaHodnota
+comment2.target=void\ setInfoMaNakupnyKosik(boolean)
+comment3.params=
+comment3.target=Farba\ getFarba()
+comment4.params=
+comment4.target=int\ getCisloBicykla()
+comment5.params=
+comment5.target=boolean\ getInfoMaNakupnyKosik()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

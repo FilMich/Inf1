@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=paMeno\ paPriezvisko\ paPlat
+comment0.target=Osoba(java.lang.String,\ java.lang.String,\ int)
+comment1.params=paMeno\ paPriezvisko\ paPlat\ paPracovneZaradenie
+comment1.target=Osoba(java.lang.String,\ java.lang.String,\ int,\ PracovneZaradenie)
+comment2.params=
+comment2.target=java.lang.String\ getMeno()
+comment3.params=
+comment3.target=java.lang.String\ getPriezvisko()
+comment4.params=
+comment4.target=PracovneZaradenie\ getZaradenie()
+comment5.params=
+comment5.target=int\ getPlat()
+comment6.params=noveMeno
+comment6.target=void\ setMeno(java.lang.String)
+comment7.params=novePriezvisko
+comment7.target=void\ setPriezvisko(java.lang.String)
+comment8.params=novyPlat
+comment8.target=void\ setPlat(int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

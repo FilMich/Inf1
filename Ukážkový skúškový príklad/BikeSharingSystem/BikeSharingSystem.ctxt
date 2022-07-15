@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BikeSharingSystem
+comment1.params=pocetStojanov\ velkostStojana\ pocetBicyklovVstojane
+comment1.target=BikeSharingSystem(int,\ int,\ int)
+comment2.params=typKlienta
+comment2.target=double\ urciPoplatok(TypKlienta)
+comment3.params=osoba\ indexStojanu
+comment3.target=void\ pozicajBicykel(Osoba,\ int)
+numComments=4

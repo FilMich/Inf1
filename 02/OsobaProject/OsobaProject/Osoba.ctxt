@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=meno\ priezvisko\ rokNarodenia\ narok
+comment0.target=Osoba(java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment1.params=
+comment1.target=java.lang.String\ getMenoApriezvisko()
+comment2.params=
+comment2.target=int\ getVek()
+comment3.params=
+comment3.target=boolean\ getNarokNaVlakyZadarmo()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=void\ vypisInfo()
+numComments=6

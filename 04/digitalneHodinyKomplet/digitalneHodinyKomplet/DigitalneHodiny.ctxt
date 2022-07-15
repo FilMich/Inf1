@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DigitalneHodiny()
+comment0.text=\r\n\ Inicializuje\ digitalne\ hodiny.\ Cas\ zacina\ plynut\ od\r\n\ polnoci\ (00\:00).\r\n
+comment1.params=
+comment1.target=void\ zobrazAktualnyCas()
+comment2.params=
+comment2.target=void\ tik()
+comment2.text=\r\n\ Vykonava\ posunutie\ virtualneho\ casu\ o\ jednu\ minutu.\r\n
+comment3.params=hodina\ minuta\ sekunda
+comment3.target=void\ setCas(int,\ int,\ int)
+comment3.text=\r\n\ Nastavi\ virtualny\ cas\ na\ zadanu\ hodnotu.\r\n\ \r\n\ @param\ hodina\ Hodina\ na\ ktoru\ sa\ ma\ cas\ nastavit.\r\n\ @param\ minuta\ Minuta\ na\ ktoru\ sa\ ma\ cas\ nastavit.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getCas()
+comment4.text=\r\n\ Vrati\ cas\ vo\ forme\ retazca.\r\n
+comment5.params=
+comment5.target=void\ priestupnaSekunda()
+comment6.params=
+comment6.target=void\ priestupnaMinuta()
+comment7.params=
+comment7.target=void\ priestupnaHodina()
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=KlientZostatok
+comment1.params=klient\ zostatok
+comment1.target=KlientZostatok(Klient,\ int)
+comment2.params=
+comment2.target=Klient\ getKlient()
+comment3.params=
+comment3.target=int\ getZostatok()
+comment4.params=zostatok
+comment4.target=void\ setZostatok(int)
+numComments=5

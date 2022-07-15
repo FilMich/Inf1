@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rok
+comment1.params=roky
+comment1.target=Rok(int)
+comment2.params=
+comment2.target=boolean\ getPriestupnyRok()
+comment3.params=
+comment3.target=int\ getRoky()
+numComments=4

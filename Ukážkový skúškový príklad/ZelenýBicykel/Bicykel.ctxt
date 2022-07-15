@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=paFarba\ paCisloBicykla\ paMaNakupnyKosik
+comment0.target=Bicykel(Farba,\ int,\ boolean)
+comment1.params=
+comment1.target=Farba\ getFarba()
+comment2.params=
+comment2.target=int\ getCisloBicykla()
+comment3.params=paNovaHodnota
+comment3.target=void\ setInfoMaNakupnyKosik(boolean)
+comment4.params=
+comment4.target=boolean\ getInfoMaNakupnyKosik()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

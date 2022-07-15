@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Jedlo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Jedlo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Jedlo()
+comment2.params=
+comment2.target=int\ getSuradnicaX()
+comment3.params=
+comment3.target=int\ getSuradnicaY()
+comment4.params=novaSuradnicaX
+comment4.target=void\ setSuradnicaX(int)
+comment5.params=novaSuradnicaY
+comment5.target=void\ setSuradnicaY(int)
+numComments=6

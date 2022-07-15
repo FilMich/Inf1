@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Blok
+comment1.params=suradnicaX\ suradnicaY\ typBloku
+comment1.target=Blok(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=Obrazok\ getObrazok()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=java.lang.String\ getTyp()
+comment6.params=x
+comment6.target=void\ setX(int)
+comment7.params=y
+comment7.target=void\ setY(int)
+comment8.params=
+comment8.target=void\ nakresli()
+numComments=9

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bludisko()
+comment1.params=
+comment1.target=void\ vypisVysledky()
+comment2.params=cisloSkoku\ aktX\ aktY
+comment2.target=boolean\ vyskusaj(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ najdiAvypisCestu()
+numComments=4

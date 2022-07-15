@@ -1,0 +1,20 @@
+BlueJ run started: Fri Nov 06 10:03:45 CET 2020
+BlueJ version 4.1.2
+Java version 1.8.0_211
+Virtual machine: Java HotSpot(TM) 64-Bit Server VM 25.211-b12 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Java\jdk1.8.0_211\jre
+----
+Detected language "slovak" based on iso639-2 code "slk"
+Internal error: Unable to load definitions file: C:\Program Files (x86)\BlueJ FRI Edition\lib\slovak\labels
+Internal error: Unable to load frame labels file: C:\Program Files (x86)\BlueJ FRI Edition\lib\slovak\frame-labels
+Opening project: C:\Users\kvetm\OneDrive\Poèítaè\Inf1_07\02_Pole
+1604653426450: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+nov 06, 2020 10:05:32 AM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Java/jdk1.8.0_211/jre/lib/ext/jfxrt.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov 06, 2020 10:07:38 AM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Java/jdk1.8.0_211/jre/lib/ext/jfxrt.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov 06, 2020 10:07:47 AM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Java/jdk1.8.0_211/jre/lib/ext/jfxrt.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss

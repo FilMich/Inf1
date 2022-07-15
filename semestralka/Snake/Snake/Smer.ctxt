@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Smer
+comment0.text=\r\n\ Enumeracna\ trieda\ Smer\ reprezentuje\ 4\ smery\ akymi\ moze\ had\ ist\r\n\ \r\n\ @Filip\ Michalek\r\n\ @version\ 1.0\r\n
+comment1.params=input
+comment1.target=Smer\ otocDoprava(Smer)
+comment1.text=\r\n\ Metoda\ otocDoprava\ zmeni\ polohu\ hada\ podla\ vstupu\r\n
+comment2.params=input
+comment2.target=Smer\ otocDolava(Smer)
+comment2.text=\r\n\ Metoda\ otocDolava\ zmeni\ polohu\ hada\ podla\ vstupu\r\n
+comment3.params=input
+comment3.target=Smer\ otocHore(Smer)
+comment3.text=\r\n\ Metoda\ otocHore\ zmeni\ polohu\ hada\ podla\ vstupu\r\n
+comment4.params=input
+comment4.target=Smer\ otocDole(Smer)
+comment4.text=\r\n\ Metoda\ otocDole\ zmeni\ polohu\ hada\ podla\ vstupu\r\n
+numComments=5

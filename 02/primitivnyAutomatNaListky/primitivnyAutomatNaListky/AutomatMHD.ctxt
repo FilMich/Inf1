@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=cenaListka
+comment0.target=AutomatMHD(int)
+comment0.text=\r\n\ Konstruktor\ vytvori\ automat,\ ktory\ bude\r\n\ tlacit\ cestovne\ listky\ pevnej\ ceny.\r\n\ Cena\ je\ urcena\ parametrom\ cenaListka.\r\n\ Pozor\ -\ cena\ listka\ musi\ byt\ kladne\ cele\r\n\ cislo\ a\ tato\ podmienka\ sa\ nekontroluje.\r\n
+comment1.params=
+comment1.target=int\ getCenaListka()
+comment1.text=\r\n\ Vrati\ hodnotu\ ceny\ listka\r\n
+comment2.params=
+comment2.target=int\ getVlozenaCiastka()
+comment2.text=\r\n\ Vrati\ doteraz\ vlozenu\ ciastku\r\n
+comment3.params=hodnotaMince
+comment3.target=void\ vlozMincu(int)
+comment3.text=\r\n\ Prijme\ mincu\ danej\ hodnoty\ od\ kupujuceho\r\n
+comment4.params=
+comment4.target=void\ tlacListok()
+comment4.text=\r\n\ Vytlaci\ cestovny\ listok,\r\n\ pripocita\ vlozenu\ ciastku\ k\ trzbe\ a\r\n\ vynuluje\ vlozenu\ ciastku\r\n
+numComments=5

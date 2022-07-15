@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Suradnice
+comment0.text=\r\n\ Trieda\ Suracnice,\ reprezentuje\ suradnice\r\n\ \r\n\ @author\ Filip\ Michalek\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=X\ Y\ indexX\ indexY
+comment1.target=Suradnice(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Parametricky\ konstruktor\ priradi\ suradniciam\ parametr\ ktore\ dostane\ na\ vstup\r\n\ \r\n\ @param\ X\ je\ suradnica\ x\r\n\ @param\ Y\ je\ suradnica\ y\r\n\ @param\ indexX\ je\ index\ X\r\n\ @param\ indexY\ je\ indes\ Y\r\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ Metoda\ getX\ vrati\ suradnicu\ x\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\r\n\ Metoda\ getY\ vrati\ suradnicu\ y\r\n
+comment4.params=
+comment4.target=int\ getIndexX()
+comment4.text=\r\n\ Metoda\ getIndexX\ vrati\ index\ x\r\n
+comment5.params=
+comment5.target=int\ getIndexY()
+comment5.text=\r\n\ Metoda\ getIndexY\ vrati\ index\ y\r\n
+numComments=6

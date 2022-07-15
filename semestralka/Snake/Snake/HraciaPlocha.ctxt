@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HraciaPlocha
+comment0.text=\r\n\ Trieda\ HraciaPlocha,\ reprezentuje\ plochu\ suradnic\ a\ zobrazi\ sa\ ako\ obrazok\r\n\ \r\n\ @author\ Filip\ Michalek\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=HraciaPlocha()
+comment1.text=\r\n\ Parametricky\ konstruktor\ vytvori\ hraciu\ plochu\ ako\ obrazok\ a\ do\ suradnic\ si\ ulozi\ jednotlive\ indexy\ po\ ktorych\ sa\ pohybuje\ had\r\n\ \r\n
+comment2.params=
+comment2.target=Suradnice[][]\ getSuradnice()
+comment2.text=\r\n\ Metoda\ getSuradnice\ pole\ suradnic\r\n
+numComments=3

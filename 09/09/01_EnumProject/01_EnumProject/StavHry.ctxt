@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StavHry
+comment1.params=
+comment1.target=StavHry\ vygenerujNahodnyVysledok()
+comment2.params=vstup
+comment2.target=StavHry\ vygenerujOpacnyVysledok(StavHry)
+comment3.params=vstup
+comment3.target=int\ getBody(StavHry)
+comment4.params=vstup
+comment4.target=java.lang.String\ getSkratka(StavHry)
+numComments=5

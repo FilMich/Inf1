@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Farba
+comment1.params=
+comment1.target=Farba\ dajNahodnu()
+comment2.params=farba
+comment2.target=Farba(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ dajFarbu()
+numComments=4

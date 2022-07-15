@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=paKapacita
+comment0.target=Stojan(int)
+comment1.params=
+comment1.target=int\ getKapacita()
+comment2.params=
+comment2.target=int\ getAktualnyPocetBicyklov()
+comment3.params=
+comment3.target=boolean\ existujeVolneMiesto()
+comment4.params=
+comment4.target=Bicykel\ uvolniBicykel()
+comment5.params=paBicykel
+comment5.target=boolean\ pridajBicykel(Bicykel)
+comment6.params=
+comment6.target=java.util.ArrayList\ getZoznamBicyklov()
+numComments=7

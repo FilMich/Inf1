@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Stojan
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Stojan\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=kapacita
+comment1.target=Stojan(int)
+comment2.params=
+comment2.target=int\ getKapacita()
+comment3.params=
+comment3.target=int\ getAktualnyPocetBicyklov()
+comment4.params=
+comment4.target=boolean\ existujeVolneMiesto()
+comment5.params=
+comment5.target=Bicykel\ uvolniBicykel()
+comment6.params=bicykel
+comment6.target=boolean\ pridajBicykel(Bicykel)
+comment7.params=
+comment7.target=java.util.ArrayList\ getZoznamBicyklov()
+numComments=8

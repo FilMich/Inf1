@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Hra
+comment0.text=\r\n\ Trieda\ Hra,\ reprezentuje\ hru\ Hadik\r\n\ \r\n\ @author\ Filip\ Michalek\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Hra()
+comment1.text=\r\n\ Parametricky\ konstruktor\ vytvori\ hru\ ktora\ pozostava\ z\ jednotlivych\ tried\r\n
+comment2.params=
+comment2.target=boolean\ koliziaJablko()
+comment2.text=\r\n\ Metoda\ koliziaJablko\ kontoluje\ koliziu\ hadovej\ hlavy\ s\ jablkom,\ ak\ kolizia\ nastane\ vrati\ sa\ hodnota\ true\r\n
+comment3.params=
+comment3.target=boolean\ koliziaHranice()
+comment3.text=\r\n\ Metoda\ koliziaHranice\ kontoluje\ koliziu\ hadovej\ hlavy\ s\ hranicami,\ ak\ kolizia\ nastane\ vrati\ sa\ hodnota\ true\r\n
+comment4.params=
+comment4.target=boolean\ vyhralSi()
+comment4.text=\r\n\ Metoda\ vyhralSi\ kontoluje\ skore,\ ak\ si\ dosiahol\ pozadovane\ skore\ vrati\ sa\ hodnota\ true\r\n
+numComments=5

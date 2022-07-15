@@ -1,0 +1,52 @@
+Informatika 1 - cvièenie 7
+
+1. Zopakova cykly (foreach, while a for) na príklade vıpisu èlenov skupiny (projekt OsobaSkupina)
+2. Ïalšie úlohy na precvièenie cyklov (nech si študenti spravia sami):
+   - naèíta celé èíslo, zisti, èi je to prvoèíslo
+   - naèíta celé èíslo > 0 (ošetri vstup), vypísa najblišie väèšie prvoèíslo
+
+PRÁCA S PO¼OM
+3. Vytvorte metódu, ktorá:
+   - vytvorí pole o ve¾kosti N prvkov (N > 0, hodnotu získate z parametra metódy)
+   - naplní pole náhodne generovanımi celımi èíslami z intervalu <0, 10>
+   - vypíše prvky po¾a (všetky do jedného riadka, prièom jednotlivé hodnoty budú od seba oddelené dvoma medzerami)
+   - nájde minimum a maximum z hodnôt po¾a, vypíše ich a rovnako vypíše ich indexy
+
+4. Školník a skrinky
+V škole je n (napr. n = 100) skriniek na veci pre študentov. Na zaèiatku sú všetky skrinky otvorené.
+Príde školník a pre kadú druhú skrinku v poradí urobí nasledujúcu operáciu: Ak je skrinka otvorená, tak ju zatvorí;
+ak je zatvorená, tak ju otvorí. Ked príde na koniec radu skriniek, vráti sa na zaèiatok a zaène opä od zaèiatku
+vykonáva tú istú operáciu, ale teraz pre kadú tretiu skrinku. No a takto to pokraèuje, školník sa vdy vráti na zaèiatok a robí definovanú operáciu pre kadú k-tu skrinku od zaèiatku, prièom k sa zväèšuje od 2 po n.
+Otázka znie: Ktoré skrinky budú po tomto procese otvorené a preèo? (riešte pre n=100)
+
+5. Svetelná tabu¾a (pod¾a prezentácie)
+
+BONUS (blišie informácie (termíny a spôsob odovzdania) budú poskytnuté na cvièení)
+
+1. Banka_04
+Doplòte do bankového systému nasledovnú funkcionalitu (bez vytvárania novıch tried a atribútov - ak treba, dopåòajte len metódy):
+    [3b] A. Zrušenie úètu - Klient poiada banku o zrušenie svojho konkrétneho úètu pod¾a èísla úètu.
+                       Banka musí preveri, èi úèet s danım èíslom existuje a èi patrí danému klientovi,
+                       aby sa nestalo, e niekto poiada o zrušenie cudzieho úètu.
+                       Ak sa to podarí, klient si vymae úèet aj zo svojho zoznamu.
+    [2b] B. Vıpis najbohatšieho klienta banky (Nezabúda, e klient môe ma viac úètov!)
+       - bohatstvo klienta sa poèíta ako suma zostatkov na všetkıch jeho úètoch v banke
+       - ak by bolo viac klientov s rovnakım bohatstvom, vypíšte všetkıch!!!
+    [1b] C. Identifikácia úètu (a jeho majite¾a), s ktorım sa najviac manipuluje (má najviac transakcií).
+       - vıpis informácií má obsahova èíslo úètu, meno, priezvisko klienta a poèet transakcií
+    [1b] D. Identifikácia úètu (a jeho majite¾a), na ktorı sa vkladá najvyššia priemerná èiastka.
+
+[2b] 2. Ïalší príklad na precvièenie polí a cyklov
+Kalendár mesiaca - tzv. storoènı kalendár
+Pre zadanı mesiac a rok (mesiac je z intervalu <1, 12> a rok je z intervali <1900, 10000>) vypíšte na obrazovku 
+kalendár daného mesiaca, napríklad v tvare (zadané boli hodnoty 11 a 2016):
+November 2016
+   Po     7  14 21 28
+   Ut  1  8  15 22 29
+   St  2  9  16 23 30
+   št  3  10 17 24
+   Pi  4  11 18 25
+   So  5  12 19 26
+   Ne  6  13 20 27
+Viete, e 1.1.1900 bol pondelok. Dbajte na správnos údajov, priestupné roky a poèet dní daného mesiaca.
+Vami vytvorenı kalendár musí odpoveda reálnemu kalendáru!

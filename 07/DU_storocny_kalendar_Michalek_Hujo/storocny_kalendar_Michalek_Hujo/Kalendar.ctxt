@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Kalendar
+comment1.params=rok\ mesiac
+comment1.target=Kalendar(int,\ int)
+comment2.params=
+comment2.target=void\ jePriestupny()
+comment3.params=
+comment3.target=void\ vypisSa()
+numComments=4

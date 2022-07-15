@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Mesiac
+comment1.params=poradie
+comment1.target=Mesiac(int)
+comment2.params=
+comment2.target=int\ getPoradie()
+comment3.params=
+comment3.target=int\ getPdni()
+comment4.params=
+comment4.target=void\ setPdni()
+numComments=5

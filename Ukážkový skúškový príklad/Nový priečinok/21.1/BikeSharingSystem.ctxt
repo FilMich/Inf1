@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BikeSharingSystem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BikeSharingSystem\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=pocetStojanov\ velkostStojana\ pocetBicyklovVstojane
+comment1.target=BikeSharingSystem(int,\ int,\ int)
+comment2.params=typ
+comment2.target=double\ urciPoplatok(TypKlienta)
+numComments=3

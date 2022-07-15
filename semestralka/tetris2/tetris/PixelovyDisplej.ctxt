@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PixelovyDisplej
+comment1.params=xPos\ yPos\ sirka\ vyska\ velkost
+comment1.target=PixelovyDisplej(int,\ int,\ int,\ int,\ int)
+comment2.params=x\ y\ farba
+comment2.target=void\ zmenPolicko(int,\ int,\ Farba)
+numComments=3

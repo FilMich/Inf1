@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ovladanie
+comment1.params=
+comment1.target=Ovladanie()
+comment2.params=
+comment2.target=void\ posunVpravo()
+comment3.params=
+comment3.target=void\ posunVlavo()
+comment4.params=
+comment4.target=int\ getSmerOtocenia()
+comment5.params=
+comment5.target=void\ setSmerOtocenia()
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SkolnikAskrinky
+comment1.params=pocetSkriniek
+comment1.target=SkolnikAskrinky(int)
+comment2.params=
+comment2.target=void\ vykonajPracuSkolnika()
+numComments=3

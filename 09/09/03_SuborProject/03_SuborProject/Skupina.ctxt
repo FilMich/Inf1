@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Skupina()
+comment1.params=paNazov
+comment1.target=Skupina(java.lang.String)
+comment2.params=novyNazov
+comment2.target=void\ setNazov(java.lang.String)
+comment3.params=paOsoba
+comment3.target=void\ pridajOsobu(Osoba)
+comment4.params=
+comment4.target=void\ vypisClenovSkupiny()
+comment5.params=paPoradie
+comment5.target=void\ odstranClenaSkupiny(int)
+comment6.params=paOsoba
+comment6.target=void\ odstranClenaSkupiny(Osoba)
+comment7.params=
+comment7.target=void\ zrusSkupinu()
+comment8.params=fileName
+comment8.target=void\ ulozDoSuboru(java.lang.String)
+comment9.params=fileName
+comment9.target=void\ nacitajZoSuboru(java.lang.String)
+numComments=10

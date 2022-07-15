@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Jablko
+comment0.text=\r\n\ Trieda\ Jablko,\ reprezentuje\ hadove\ jedlo\ v\ podobe\ bloku\ jablka\ ktore\ sa\ zobrazi\ ako\ obrazok\r\n\ \r\n\ @Filip\ Michalek\ \r\n\ @version\ 1.0\r\n
+comment1.params=suradnice\ hadik\ telo
+comment1.target=Jablko(Suradnice[][],\ Hadik,\ java.util.ArrayList)
+comment1.text=\r\n\ Parametricky\ konstruktor\ vytvori\ blok\ typu\ jablko\ so\ suradniciami\ takymi\ aby\ sa\ nenachadzalo\ v\ tele\ hada\r\n\ \r\n\ @param\ suradnice\ su\ suradnice\ hracej\ plochy\r\n\ @param\ hadik\ je\ hadik\r\n\ @param\ telo\ je\ list\ blokov(hadove\ telo)\r\n
+comment2.params=
+comment2.target=int\ getPolohuX()
+comment2.text=\r\n\ Metoda\ getPolohuX\ vrati\ index\ bloku\ x\r\n
+comment3.params=
+comment3.target=int\ getPolohuY()
+comment3.text=\r\n\ Metoda\ getPolohuY\ vrati\ index\ bloku\ x\r\n
+comment4.params=
+comment4.target=void\ zmazJ()
+comment4.text=\r\n\ Metoda\ zmazJ\ zmaze\ obrazok\ bloku\ typu\ jablko\r\n
+comment5.params=
+comment5.target=void\ skontroluj()
+comment5.text=\r\n\ Metoda\ skontroluj\ prejde\ kazdy\ blok\ v\ hodovom\ tele\ a\ porovna\ index\ daneho\ bloku\ s\ polohou\ jablka\r\n\ Ide\ o\ kontrolu\ ci\ sa\ jablko\ nevygenerovalo\ do\ tela\ hada\ a\ ak\ hej\ nech\ sa\ vygeneruje\ znovu\ a\ skontroluje\r\n
+numComments=6

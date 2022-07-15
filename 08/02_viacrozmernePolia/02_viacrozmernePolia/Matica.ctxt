@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Matica
+comment1.params=m\ n\ x\ y
+comment1.target=Matica(int,\ int,\ int,\ int)
+comment10.params=
+comment10.target=void\ vypisPrvkyObochDiagonal()
+comment11.params=
+comment11.target=void\ vypisMaxPrvokNadHlavnouDiagonalou()
+comment12.params=
+comment12.target=void\ preusporiadajRiadkyPoslednyStlpecNeklesajuci()
+comment2.params=n\ x\ y
+comment2.target=Matica(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ vypisMaticu()
+comment4.params=
+comment4.target=void\ vypisPriemerPrvkovMatice()
+comment5.params=indexRiadku
+comment5.target=void\ vypisPriemerPrvkovRiadku(int)
+comment6.params=indexStlpca
+comment6.target=void\ vypisPriemerPrvkovStlpca(int)
+comment7.params=
+comment7.target=void\ zistiSymetrickostPodlaHlavnejDiagonaly()
+comment8.params=
+comment8.target=void\ vypisPrvkyHlavnejDiagonaly()
+comment9.params=
+comment9.target=void\ vypisPrvkyVedlajsejDiagonaly()
+numComments=13

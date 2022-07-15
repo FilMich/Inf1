@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=paPocetStojanov\ paVelkostStojana\ paPocetBicyklovVstojane
+comment0.target=BikeSharingSystem(int,\ int,\ int)
+comment1.params=paTypKlienta
+comment1.target=double\ urciPoplatok(TypKlienta)
+comment2.params=
+comment2.target=void\ vypisZoznamRegistrovanychUserov()
+comment3.params=paOsoba
+comment3.target=void\ pridajUsera(Osoba)
+comment4.params=
+comment4.target=void\ vypisZoznamBicyklovVstojanoch()
+comment5.params=
+comment5.target=void\ vypisPriemernyZiskZjazdy()
+comment6.params=
+comment6.target=void\ vypisZoznamPozicanychBicyklovSosobami()
+comment7.params=paOsoba\ paIndexStojanu
+comment7.target=void\ vratBicykel(Osoba,\ int)
+comment8.params=paOsoba\ paIndexStojanu
+comment8.target=void\ pozicajBicykel(Osoba,\ int)
+numComments=9

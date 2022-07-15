@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PrvaUloha
+comment1.params=
+comment1.target=PrvaUloha()
+comment2.params=vstup
+comment2.target=boolean\ jePrvocislo(int)
+comment3.params=pocetPrvkovPola
+comment3.target=void\ vypisMinMaxPola(int)
+numComments=4

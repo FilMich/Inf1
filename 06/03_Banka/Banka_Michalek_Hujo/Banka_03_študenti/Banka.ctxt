@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Banka
+comment1.params=
+comment1.target=Banka()
+comment2.params=
+comment2.target=int\ getCelkovaSuma()
+comment3.params=
+comment3.target=java.lang.String\ getNazovBanky()
+comment4.params=
+comment4.target=java.util.ArrayList\ vratZoznamUctov()
+comment5.params=novyNazov
+comment5.target=void\ setNazovBanky(java.lang.String)
+comment6.params=paKlient
+comment6.target=BankovyUcet\ vytvorNovyUcet(Klient)
+comment7.params=
+comment7.target=void\ vypisCislaVsetkychUctov()
+comment8.params=
+comment8.target=void\ vypisZoznamKlientovBezDuplicit()
+numComments=9

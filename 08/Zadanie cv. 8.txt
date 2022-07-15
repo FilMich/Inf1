@@ -1,0 +1,51 @@
+CVIÈENIE 8
+
+OPAKOVANIE - tieto úlohy slúia na precvièenie cyklov a práce s po¾om. Urobte si ich SAMI DOMA.
+1. Vypíšte všetky prvoèísla menšie ako zadaná hodnota. Predpokladajme, e zadaná hodnota bude aspoò 3.
+   (ošetrite vstupnı parameter)
+
+2. Vygenerujte pole celıch èísel (aspoò 30) tak, aby medzi nimi boli aj záporné èísla.
+   Vytvorte metódy, ktoré zabezpeèia nasledovné:
+   a, Nahraïte prvky po¾a ich cifernımi súètami.
+   b, Vymeòte 2 prvky po¾a, ich indexy sú dané parametrami metódy (ošetri vstup).
+   c, Vráte poèet prvkov s hodnotou 0.
+   d, Zistite poèet prvkov, ktorıch hodnota je delite¾ná è. 3 so zvyškom 1.
+   e, Zistite poèet prvkov, ktoré obsahujú èíslicu 7 (nemusia by delite¾né 7) a vypíšte ich indexy.
+   f, Vypoèítajte súèet prvkov na nepárnych indexoch.
+   g, Vypíšte prvky po¾a, ktorıch hodnota je menšia ako priemer.
+   h, Nájdete minimum (index aj hodnotu) z prvej polovice po¾a.
+   i, Zistite poèet prvoèísel v poli.
+   j, Obráte poradie prvkov v poli (nie vıpis prvkov v opaènom poradí !!!).
+   k, Vypoèítajte súèet hodnôt s nepárnym indexom, ale párnou hodnotou.
+   l, Preusporiadajte prvky po¾a tak, aby boli v neklesajúcom poradí.
+
+PRÁCA NA CVIÈENÍ
+
+DVOJROZMERNÉ POLIA - oznaèenie: A(M,N) - matica, ktorá má M riadkov a N ståpcov
+1. Vygenerova maticu A(M,N) tak, aby obsahovala celoèíselné hodnoty z intervalu <X,Y>
+2. Vypísa maticu A(M,N)
+3. Zisti a vypísa aritmetickı priemer prvkov matice
+   (alternatívy: zisti a vypísa aritmetickı priemer prvkov konkrétneho riadku, ståpca)
+
+ŠTVORCOVÉ MATICE - oznaèenie: A(N,N) - majú rovnakı poèet riadkov a ståpcov
+1. Vygenerova maticu A(N,N).
+2. Vypísa maticu A(N,N).
+3. Vypísa iba prvky na hlavnej (ved¾ajšej) diagonále. Pozor na cykly, nechcem vidie vnorenı cyklus!
+4. Zisti, èi je štvorcová matica A(N,N) symetrická pod¾a hlavnej diagonály.
+5. Nájs a vypísa maximálny prvok nad hlavnou diagonálou v matici A(N,N) a jeho indexy. 
+   (alternatívy: pod hlavnou diagonálou, nad ved¾ajšou diagonálou, pod ved¾ajšou diagonálou)
+6. Poprehadzova riadky matice tak, aby prvky posledného ståpca boli usporiadané neklesajúco.
+7. DOMA: Poprehadzova ståpce matice tak, aby prvı ståpec mal najmenší priemer prvkov, ..., poslednı 
+         ståpec mal najväèší priemer prvkov.
+
+REKURZIA
+1. Naèíta celé kladné èíslo N, vypoèíta N! (faktoriál) - bez cyklu aj s cyklom.
+   (porovna oba prístupy)
+2. Naèíta N, K, kde N je celé kladné èíslo a 0 <= K <= N
+   Vypoèíta kombinaèné èíslo "N nad K"
+3. Vypísa n-tı prvok Fibonacciho postupnosti
+   0, 1, 1, 2, 3, 5, 8, 13, 21, ...
+   prvé dva èleny sú definované napevno (0 a 1), kadı ïalší je súètom predchádzajúcich dvoch
+ 
+DRUHÁ ÈAS
+1. Príklad Bludisko - ukáza a vysvetli študentom

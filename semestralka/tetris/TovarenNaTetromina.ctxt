@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TovarenNaTetromina
+comment1.params=
+comment1.target=TovarenNaTetromina()
+comment2.params=tvar
+comment2.target=Tetromino\ vyrob(Tvar)
+comment3.params=
+comment3.target=Tetromino\ vyrobNahodne()
+numComments=4

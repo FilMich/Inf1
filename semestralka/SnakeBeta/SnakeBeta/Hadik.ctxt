@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hadik
+comment1.params=zaciatokX\ zaciatokY
+comment1.target=Hadik(int,\ int)
+comment2.params=
+comment2.target=java.util.ArrayList\ getTelo()
+comment3.params=
+comment3.target=void\ zvacsiSa()
+comment4.params=
+comment4.target=void\ nakresli()
+comment5.params=smer
+comment5.target=void\ pusunHada(Smer)
+numComments=6

@@ -1,0 +1,17 @@
+ - naèíta celé èíslo, zisti, èi je to prvoèíslo
+ - naèíta celé èíslo, vypísa jeho rozklad na súèin prvoèísel (napríklad 54=2*3*3*3)
+ - naèíta celé èíslo > 0 (ošetri vstup), vypísa najblišie väèšie prvoèíslo
+ - naèíta dve celé nezáporné èísla, vypísa to, ktoré má väèší cifernı súèet
+ - naèíta dve celé nezáporné èísla, vypísa to, ktoré má v svojom zápise viac párnych cifier
+ - naèíta N, K, vypoèíta kombinaèné èíslo "N nad K"
+ - naèíta N, vypoèíta N! (faktoriál) - bez cyklu aj s cyklom
+
+Fibonacciho postupnos
+ - vypíšte prvıch n (n je parameter metódy) èlenov tzv. Fibonacciho postupnosti.
+ a(1) = 1   a(2) = 1    a(3) = 2   ...   a(n) = a(n-1) + a(n-2)
+
+
+
+
+
+

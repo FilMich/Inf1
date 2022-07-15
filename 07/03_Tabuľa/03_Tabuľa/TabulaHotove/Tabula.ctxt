@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=paPocetDisplejov
+comment0.target=Tabula(int)
+comment1.params=
+comment1.target=void\ rozsvietVsetko()
+comment2.params=
+comment2.target=void\ zhasniVsetko()
+comment3.params=paCislo\ paSustava
+comment3.target=void\ zobrazCislo(int,\ int)
+comment4.params=paCislo
+comment4.target=void\ zobraz(int)
+comment5.params=paCislo
+comment5.target=void\ zobrazBinary(int)
+comment6.params=paCislo
+comment6.target=void\ zobrazHexa(int)
+comment7.params=paCislo
+comment7.target=void\ zobrazOtocene(int)
+numComments=8

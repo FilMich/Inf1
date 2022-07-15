@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=hornaHranica\ surX\ surY
+comment0.target=CiselnyDisplej(int,\ int,\ int)
+comment0.text=\r\n\ Inicializuje\ ciselny\ displej\ na\ hodnotu\ 0.\ Horna\ hranica\ sa\ pouzije\r\n\ ta,\ co\ zada\ pouzivatel\ v\ parametri.\r\n\ @param\ pthis.hornaHranica\ Predstavuje\ cislo,\ ktore\ hodnota\ ciselneho\r\n\ displeja\ nemoze\ dosiahnut.\r\n
+comment1.params=
+comment1.target=void\ zobraz()
+comment2.params=
+comment2.target=int\ getHodnota()
+comment3.params=hodnota
+comment3.target=void\ setHodnota(int)
+comment4.params=
+comment4.target=java.lang.String\ getHodnotaAkoRetazec()
+comment5.params=
+comment5.target=void\ krok()
+comment5.text=\r\n\ Zvacsi\ hodnotu\ na\ ciselnom\ displeji\ o\ hodnotu\ jedna.\ Ak\ dosiahne\ hornu\r\n\ hranicu,\ pokracuje\ znovu\ od\ nuly.\r\n
+comment6.params=
+comment6.target=void\ priestupnaHodnota()
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=KlientPriemer
+comment1.params=klient\ priemer
+comment1.target=KlientPriemer(Klient,\ int)
+comment2.params=
+comment2.target=Klient\ getKlient()
+comment3.params=
+comment3.target=int\ getPriemer()
+comment4.params=priemer
+comment4.target=void\ setPriemer(int)
+numComments=5

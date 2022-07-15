@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Kopa
+comment1.params=
+comment1.target=Kopa()
+comment2.params=tetromino
+comment2.target=void\ pohlt(Tetromino)
+comment3.params=tetromino
+comment3.target=boolean\ koliduje(Tetromino)
+comment4.params=
+comment4.target=void\ skontrolujRiadky()
+comment5.params=
+comment5.target=void\ reset()
+numComments=6

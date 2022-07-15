@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Osoba
+comment1.params=paMeno\ paPriezvisko\ paTyp
+comment1.target=Osoba(java.lang.String,\ java.lang.String,\ TypKlienta)
+comment2.params=paSuma
+comment2.target=void\ zvysKredit(double)
+comment3.params=paSuma
+comment3.target=void\ znizKredit(double)
+comment4.params=paBicykel
+comment4.target=void\ setMojBicykel(Bicykel)
+comment5.params=
+comment5.target=java.lang.String\ getMenoPriezvisko()
+comment6.params=
+comment6.target=TypKlienta\ getTypKlienta()
+comment7.params=
+comment7.target=double\ getKredit()
+comment8.params=
+comment8.target=Bicykel\ getMojBicykel()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

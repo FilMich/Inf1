@@ -1,0 +1,15 @@
+- Hviezdièky hlavne oznaèujú, aké aké je vymyslie riešenie, menej to, ako pracné je ho spravi. Okrem toho, hviezdièky porovnávajú úlohy v jednom súbore, nie medzi súbormi jednotlivıch tıdòov.
+
+- Niektoré (viac-hviezdièkové) úlohy nie sú riešite¾né len so znalosou doterajších prednášok a obsahu doterajších cvièení. Sú myslené pre tıch, ktorí u v minulosti programovali, prípadne sa k nim dá vráti v priebehu semestra. 
+
+1. (*) Dorobte do projektu DigitalneHodiny triedu Bodka, ktorá bude vykres¾ova èervenı štvorèek na danıch súradniciach. Dåka strany štvorca bude rovnaká ako šírka segmentu v SSD. Dorobte aj triedu Dvojbodka, ktorá bude ma dve bodky pod sebou. Táto trieda sa da poui na vykreslenie dvojbodiek na oddelenie hodín, minút a sekúnd v digitálnych hodinách.   
+
+2. (*) Dorobte do triedy SSD v projekte DigitalneHodiny metódy na zobrazenie písmen A, P, M. Na písmeno M as rozsvietia segmenty a, b, c, e, f.
+
+3. (**) Naprogramujte triedu Kvetina, ktorá bude ma stredové lté koliesko (trieda Kruh) a šes okvetnıch lístkov (trieda Kruh). Ako parameter konštruktora dostane farbu, ktorá sa pouije na okvetné lístky.
+
+4. (**) Naprogramujte triedu Miestnost, ktorá dostane ako parameter konštruktora názov a poèet dverí. Naprogramujte triedu Byt (alebo Dom), ktorá bude ma miestnosti pod¾a bytu/domu, v ktorom bıvate. Pridajte metódu celkovyPocetDveri(), ktorá postupne prejde všetky svoje miestnosti a vypíše celkovı poèet dverí. 
+
+5. (***) Dorobte do projektu DigitalneHodiny prepínanie medzi 12- a 24-hodinovım formátom èasu (cvièenie 4, slide 23). Pouite písmená A, P, M z úlohy 2, aby sa v 12-hodinovom formáte za sekundovım displejom ešte zobrazovalo AM alebo PM. 
+
+6. (***) Dorobte do projektu DigitalneHodiny bezparametrickú, beznávratovú metódu na pridanie priestupnej sekundy (cvièenie 4, slide 22). 

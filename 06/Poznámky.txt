@@ -1,0 +1,40 @@
+Informatika 1 - cvièenie 6 - obsah adresára
+
+1. Zaèa s cyklom while na jednoduchıch príkladoch
+   (cifernı súèet èísla, vytvorenie èísla s opaènım poradím cifier)
+
+2. Základy práce s ArrayListom - vytvorenie + základné metódy
+   (na príklade Osoba a Skupina)
+   - ukáza a vysvetli anonymnı objekt
+   - postupova pod¾a poznámok v projekte OsobaSkupinaHotove
+
+3. Banka
+   - ve¾mi struène a rıchlo prebehnú asociáciu v príkladoch Banka_01 a Banka_02
+   - Banka_03 - rozšírenie banky o ArrayListy a iné funkcie:
+     Banka_03 je vypracovaná, študenti nech pracujú vo verzii Banka_03_študenti
+     a, rozšírte triedu BankovyUcet o atribúty a príslušné gettery a settery (so settermi OPATRNE)
+        - cisloUctu (akého typu bude?),
+        - PIN (akého typu bude? môe by int? ak nie, èo iné by ste navrhli a preèo?)
+        - klient (majite¾ úètu)
+     b, navrhnite metódu na zmenu PIN (ako funbguje v praxi)
+        - vysvetli a ukáza tzv. oba¾ovacie triedy (Character)
+     c, ošetrite vıber tak, aby vyadoval overenie PIN kódu
+     d, rozšírte triedu BankovyUcet o vypisZuctu (èo obsahuje? nie len zostatok, ale aj
+        preh¾ad všetkıch transakcii, t.j. vklady a vıbery) -> trieda Transakcia
+     e, implementujte triedu Transakcia a následne upravte vypisZuctu v triede BankovyUcet
+     f, rozšírte triedu Banka o zoznam úètov
+     g, ako sa oproti projektu Banka_02 zmení metóda getCelkovaSuma v triede Banka?
+     h, navrhnite a implementujte metódu vytvorNovyUcet v triede Banka
+     i, rozšírte triedu Banka o metódy vypisCislaVsetkychUctov a vypisZoznamKlientovBezDuplicit
+        - ako v zozname potlaèíte duplicity (aby sa Vám údaje neopakovali?)
+     j, rozšírte triedu Klient o:
+        - zriadSiUcetVbanke(Banka b)
+        - najdiUcet(String paCisloUctu)
+        - vypisStavUctu(String paCisloUctu)
+        - vypisMajetokKlienta()
+        - vytlacVypisUctu(String cu)
+        - prevedZuctuNaUcet(String odkial, String kam, int sum, String pin)
+        - zmenPINkodSvojhoUctu(String cu, String stary, String novy)
+
+     Doma:
+     ak bude ma banka zoznam úètov, navrhnite a implementujte metódu prevodNaInyUcet v bankovom úète

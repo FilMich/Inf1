@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=meno\ zaradenie
+comment0.target=Osoba(java.lang.String,\ Zaradenie)
+comment1.params=
+comment1.target=Zaradenie\ getZaradenie()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

@@ -1,0 +1,86 @@
+JEDNODUCHÉ ÚLOHY
+C01 - naèíta tri celé èísla, vypísa najmenšie (najväèšie) z nich
+C02 - naèíta celé èíslo, vypísa jeho cifernı súèet
+C03 - naèíta celé èíslo, zisti, èi je to prvoèíslo
+C04 - naèíta celé èíslo, vypísa jeho rozklad na súèin prvoèísel (napríklad 54=2*3*3*3)
+C05 - naèíta celé èíslo >0, vypísa najblišie väèšie prvoèíslo
+C06 - naèíta celé nezáporné èíslo, vytvori k nemu èíslo s opaènım poradím èíslic (bez konverzie na reazec)
+
+REAZCE
+R01 - naèíta reazec, upravi ho tak, aby všetky písmená boli ve¾ké (alternatíva - všetky písmená malé)
+R02 - naèíta reazec, upravi ho tak, aby slová zaèínali ve¾kım pismenom a ostatné písmená v slove boli malé
+      (slová sú v reazci oddelené medzi sebou minimálne jednou medzerou)
+R03 - naèíta reazec, zisti, ko¾ko slov obsahuje (slová sú medzi sebou oddelené minimálne jednou medzerou)
+R04 - naèíta reazec, zisti, èi je symetrickı
+R05 - naèíta vetu, zisti èi sa dá èíta rovnako spredu i zozadu (napr. 'Kobyla ma maly bok')
+R06 - nájs pozíciu, od ktorej sa prvıkrát vyskytuje reazec R1 v reazci R2 (bez pouitia funkcie POS)
+R07 - zisti, ko¾kokrát sa reazec R1 vyskytuje v reazci R2
+
+JEDNOROZMERNÉ POLIA
+P01 - naèíta pole N celıch èísel, vypísa maximálny (minimálny) prvok po¾a a jeho index
+P02 - naèíta pole N celıch èísel, vypísa poèet párnych prvkov po¾a
+P03 - naèíta pole N èísel, vypísa aritmetickı priemer kladnıch prvkov po¾a
+P04 - naèíta pole N celıch èísel, vypísa dva najmenšie prvky po¾a
+P05 - naèíta pole N celıch èísel, povymieòa prvky po¾a tak, aby na zaèiatku boli všetky párne
+      prvky po¾a a za nimi všetky nepárne prvky po¾a
+P06 - naèíta pole N celıch èísel, vypísa, akı je maximálny poèet za sebou idúcich rovnakıch prvkov po¾a
+P07 - naèíta pole N celıch èísel, vypísa, ktorá hodnota sa v poli vyskytuje najèastejšie (a ko¾kokrát)
+P08 - naèíta pole N celıch èísel, vypísa poèetnos vıskytu hodnôt v tomto poli (ko¾kokrát sa ktorá
+      hodnota v poli vyskytuje)
+P09 - naèíta pole celıch èísel, upravi ho tak, aby kadú hodnotu obsahovalo iba jedenkrát, napríklad 
+      ak sa naèíta pole (1,2,2,1,2,3,3,1,3,2), po úprave bude obsahova prvky (1,2,3)
+P10 - naèíta pole N celıch èísel, usporiada ho neklesajúco - od najmenšieho po najväèší prvok (alebo nerastúco)
+P11 - naèíta dve polia celıch èísel, vytvori ich "prienik" t.j. pole, ktoré obsahuje také prvky, ktoré 
+      sa nachádzajú v oboch naèítanıch poliach (alternatíva - vytvori "zjednotenie", "rozdiel" polí)
+
+DVOJROZMERNÉ POLIA - oznaèenie: A(M,N) - matica, ktorá má M riadkov a N ståpcov
+M01 - naèíta maticu A(M,N)
+M02 - vygenerova maticu A(M,N) tak, aby obsahovala celoèíselné hodnoty z intervalu <X,Y>
+M03 - vypísa maticu A(M,N)
+M04 - zisti, èi je štvorcová matica A(N,N) symetrická pod¾a hlavnej diagonály (alternatíva - pod¾a ved¾ajšej diag.)
+M05 - transponovanie matice A(N,N) ("preklopenie" pod¾a hlavnej diagonály) (alternatíva - preklopenie
+      štvorcovej matice pod¾a ved¾ajšej diagonály)
+M06 - sèítanie, odèítanie, násobenie matíc
+M07 - nájs maximálny prvok nad hlavnou diagonálou v matici A(N,N) a jeho indexy 
+      (alternatívy: pod hlavnou diagonálou, nad ved¾ajšou diagonálou, pod ved¾ajšou diagonálou)
+M08 - zisti, ktorı ståpec matice má najmenší aritmetickı priemer prvkov
+M09 - poprehadzova riadky matice tak, aby prvky posledného ståpca boli usporiadané neklesajúco
+M10 - poprehadzova ståpce matice tak, aby prvı ståpec mal najmenší priemer prvkov, ..., poslednı 
+      ståpec mal najväèší priemer prvkov
+
+ÏALŠIE ÚLOHY
+C07 - naèíta dve celé nezáporné èísla, vypísa to, ktoré má väèší cifernı súèet
+C08 - naèíta dve celé nezáporné èísla, vypísa to, ktoré má v svojom zápise viac párnych cifier
+C09 - naèíta N, K, vypoèíta kombinaèné èíslo "N nad K"
+C10 - naèíta N, vypoèíta N! (faktoriál) - bez cyklu aj s cyklom
+
+P12 - naèíta pole N reálnych èísel, vypísa prvı prvok po¾a, ktorı je menší alebo rovnı ako aritmetickı
+      priemer prvkov po¾a
+P13 - naèíta pole N reálnych èísel, vypísa prvok po¾a, ktorı sa najmenej líši od aritmetického priemeru prvkov po¾a
+
+M11 - riešenie sústavy N lineárnych rovníc pre N neznámych Gaussovou elimináciou (rozšírená matica 
+      sústavy je matica A(N,N+1) )
+M12 - vıpoèet determinantu, urèeného maticou A(N,N)
+----------------------------------------------------------------------------------------------------------------------
+
+Nároènejšie a zaujímavé úlohy
+Z01 - Na šachovnici (pole 8x8) stojí v riadku R a ståpci S jazdec (kôò). Na ktorıch miestach na šachovnici
+      sa môe ocitnú jazdec po svojom prvom (druhom, treom, ..., šiestom) ahu (šachovnicu zobrazte na obrazovke)
+
+Školník a skrinky
+V škole je n (napr. n = 100) skriniek na veci pre študentov. Na zaèiatku sú všetky skrinky otvorené.
+Príde školník a pre kadú druhú skrinku v poradí urobí nasledujúcu operáciu: Ak je skrinka otvorená, tak ju zatvorí;
+ak je zatvorená, tak ju otvorí. Ked príde na koniec radu skriniek, vráti sa na zaèiatok a zaène opä od zaèiatku
+vykonáva tú istú operáciu, ale teraz pre kadú tretiu skrinku. No a takto to pokraèuje, školník sa vdy vráti na zaèiatok
+a robí definovanú operáciu pre kadú k-tu skrinku od zaèiatku, prièom k sa zväèšuje od 2 po n.
+Otázka znie: Ktoré skrinky budú po tomto procese otvorené a preèo? (riešte pre n=100)
+
+Fibonacciho postupnos
+ - vypíšte prvıch n (n je parameter metódy) èlenov tzv. Fibonacciho postupnosti.
+ a(1) = 1   a(2) = 1    a(3) = 2   ...   a(n) = a(n-1) + a(n-2)
+
+
+
+
+
+

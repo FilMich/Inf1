@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=stranaA
+comment0.target=Stvorec(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Stvorec\r\n
+comment1.params=stranaA
+comment1.target=void\ setstranaA(int)
+comment2.params=
+comment2.target=int\ getobsahS()
+comment3.params=
+comment3.target=int\ getobvodO()
+comment4.params=
+comment4.target=void\ vzpisSa()
+numComments=5
